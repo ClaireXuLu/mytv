@@ -7,7 +7,7 @@ CCTV-3综艺,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/
 央视台,#genre#
 CCTV-4中文国际,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel4/1300.m3u8
 央视台,#genre#
-CCTV-5体育,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel5/1300.m3u8
+CCTV-5体育,http://116.162.6.191/1301-txt.otvstream.otvcloud.com/otv/skcc/live/channel41140/index.m3u8
 央视台,#genre#
 CCTV-5+体育赛事,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel13/1300.m3u8
 央视台,#genre#
@@ -15,4 +15,4 @@ CCTV-6电影,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/
 央视台,#genre#
 CCTV-7国防军事,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel7/1300.m3u8
 卫视台,#genre#
-湖南卫视,http://116.162.6.192/4403-txt.otvstream.otvcloud.com/otv/skcc/live/channel25/2300.m3u8
+湖南卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225610/index.m3u8
