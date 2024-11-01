@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-1综合" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png",CCTV-1综合
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+http://[2409:8087:1a01:df::4009]/TVOD/88888888/224/3221225816/main.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-2财经" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png",CCTV-2财经
 http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
 #EXTINF:-1 group-title="央视台" tvg-id="CCTV-3综艺" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png",CCTV-3综艺
